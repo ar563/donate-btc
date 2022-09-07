@@ -1,1 +1,2 @@
-# donate
+<p align="center">bc1q7c6plpxtx5rq7c7ld5hayp3zan7q03pyyjm89j</p>
+<p align="center"><img src="https://github.com/ar563/ar563/blob/main/assets/btc.png" alt="bitcoin" /></p>
